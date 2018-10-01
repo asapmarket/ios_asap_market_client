@@ -1,0 +1,246 @@
+/* 
+  Localizable.strings
+  WaiMaiClient
+
+  Created by 王 on 2017/7/31.
+  Copyright © 2017年 王. All rights reserved.
+*/
+CFBundleDisplayName = "暴走外卖";
+NSMicrophoneUsageDescription = "需要您的同意,才能访问麦克风";
+NSLocationUsageDescription = "暴走外卖需要您的位置来送餐";
+NSLocationWhenInUseUsageDescription = "暴走外卖需要您的位置来送餐";
+NSLocationAlwaysUsageDescription = "暴走外卖需要您的位置来送餐";
+NSCameraUsageDescription = "暴走外卖需要您的同意访问相机来上传跑腿图片";
+NSPhotoLibraryUsageDescription = "暴走外卖需要您的同意访问相册来上传跑腿图片";
+
+"login" = "登录";
+"enterPhoneNO" = "请输入手机号";
+"enterPwd" = "请输入密码";
+"EnterZipCode" = "请输入邮编地址";
+"ZipCodeNotRange" = "该邮编地址不在配送范围哟";
+"registerNow" = "立即注册";
+"register1"    = "注册";
+"forgetPwd" = "忘记密码";
+"enterAuthCode" = "请输入验证码";
+"sendAuthCode" = "获取验证码";
+"sendCodeAgain" = "重新发送";
+"userAgreement" = "《用户服务协议》";
+"readerAgreement" = "我已阅读并同意";
+"backToLogin" = "已有帐号？返回登录";
+"enterNewPwd" = "请输入新密码";
+"findPwd" = "找回密码";
+"verNewPwd" = "请确认新密码";
+"enterOldPwd" = "请输入原始密码";
+"submit" = "提交";
+/*
+ 个人中心
+ */
+"vipCenter" = "会员中心";
+"myWallet"  = "我的钱包";
+"ahippingAddress" = "收货地址";
+"vipMessage"     = "会员消息";
+"myInvitation"   = "我的邀请";
+"photo" = "头像";
+"nickName" = "昵称";
+"modifyPwd" = "修改密码";
+"language" = "语言";
+"Chinese" = "中文";
+"English" = "英语";
+"takingPictures" = "拍照";
+"fromPhotoAlbum"  = "从手机相册选择";
+/*
+ tabBar
+ */
+"home" = "首页";
+"collect" = "收藏";
+"order" = "订单";
+
+/*
+ 订单
+ */
+
+"orderSuccess" = "下单成功";
+"take"   = "取件完成";
+"onRoad" = "在路上";
+"orderEnd" = "订单完成";
+"goodsCount" = "件商品";
+"confirmDelivery" = "确认送达";
+"reminder_text" = "催单";
+"lookDetail" = "查看详情";
+"orderNO" = "订单编号:";
+"AppendAddress" = "添加地址";
+"SelectPayStyle" = "选择支付方式";
+"CustomRemark" = "给商家留言";
+"Courier" = "快递员";
+"ReceiveOrder" = "接单";
+"Coupons"  = "优惠券";
+"UseCoupons" = "不使用优惠券";
+"EnterCoupons" = "请输入优惠码";
+"DiscountAmount" = "优惠金额：$";
+
+/*
+ 会员中心
+ */
+"EditAddress" = "编辑地址";
+"AddAddress"  = "新增地址";
+"RecieveAddress" = "收货地址";
+"phoneNo" = "手机号";
+"Contact" = "联系人";
+"Man"     = "先生";
+"Woman"     = "女士";
+"CodeNO"  = "Zip Code";
+"Recieve" = "保存";
+"DeleteAddress" = "删除该地址";
+"HistoryOrder" = "历史订单";
+"ZipCodeIsNotDelivery" = "当前地址不在配送范围";
+"verify" = "确认";
+
+"SupportCart"= "支持以下信用卡:";
+
+/*
+ 商家
+ */
+"StoreDetail" = "商家详情";
+"cancel" = "取消";
+"Address" = "地点：";
+"BusinessHours" = "营业时间:";
+"FoodDetail"   = "商品详情";
+"ShopList"  = "商家列表";
+
+"indentDetail" = "订单详情";
+"InGet"  = "未取件";
+"GetSuccess" = "取件成功";
+"DeliveryLocation" = "配送员位置";
+"DeliveryConfirmation" = "确认送达";
+"SelectSpec"   = "选择规格";
+"ShopCart" = "购物车";
+
+"ClearShopCart" = "清空购物车";
+
+"Delete" = "删除";
+
+"ConfirmExitShopCart" = "确定清空购物车？";
+"ShoppingCartIsEmpty" = "购物车为空";
+
+"Settlement"  = "结算";
+"Total" = "合计：";
+"SubmitOrder" = "提交订单";
+
+"searchPlaceholder" = "请输入订单号或手机号查询";
+"screening" = "筛选";
+"orderTime" = "接单时间";
+"inDistribution" = "配送中";
+"completed" = "已完成";
+"search" = "搜索";
+"reset" = "重置";
+"orderType" = "订单状态";
+"startTime" = "起始时间";
+"endTime" = "终止时间";
+"payType" = "支付方式";
+"balance" = "余额";
+"enterOrderNO" = "请输入订单编号";
+"enterPhoneNO" = "请输入手机号";
+"orderManager" = "订单管理";
+"takeOutOrder" = "外卖订单";
+"reminderRecord" = "催单记录";
+"pay" = "支付";
+"paySuccess" = "支付成功";
+"payFail" = "支付失败";
+"payCancle" = "取消支付";
+"outLogin"  = "退出登录";
+"confirmExit" = "确认退出？";
+"indentNo" = "订单号";
+
+"readUserAgreement" = "请先阅读用户服务协议";
+"prompt" = "提示";
+"cancel" = "取消";
+"confirm_search" = "确认搜索";
+"SelectTime"  = "请选择时间";
+"taked"  = "已取";
+"accountSettings" = "账户设置";
+"NotAllowApplePay" = "您的手机不支持ApplePay";
+
+"Merchant" = "商家";
+"ContactsCan'tEmpty" = "联系人不能为空";
+"LocationCantEmpty" = "地址不能为空";
+
+"CreditCard" = "信用卡支付";
+"MyCreditCard" = "我的信用卡";
+"PayWithCard" = "刷卡支付";
+"Edit" = "编辑";
+"Delete" = "删  除";
+
+"AddCreditCard" = "新增信用卡";
+
+"CreditCardNO" = "信用卡卡号：";
+"Validity"   = "信用卡有效期：";
+
+"CardNO" = "卡号：";
+
+"ArlertCreditCardNO" = "请输入信用卡号码";
+"ArlertValidity" = "请输入信用卡有效期，格式为：0119";
+"TIPS" = "送餐费用：";
+"RefreshLocation" = "刷新位置";
+"VerifyDelete" = "确认删除？";
+
+"InThePayment" = "支付中...";
+
+"CashPayments" = "现金支付";
+
+"ContactUs" = "联系我们";
+
+"Continue" = "继续支付";
+
+"Back"  = "返回";
+
+"WeChatPublic" = "微信公众号";
+"ContactEmail" = "联系邮箱";
+
+"FoodList" =  "商品列表";
+
+
+"Wallet" = "钱包";
+"Exchange" = "兑换";
+"RewardPointBalance" = "饭点余额";
+"WhatIsRewardPoint"  = "什么是饭点？";
+"RewardPointPay" = "饭点支付";
+"NowBalance"     = "可兑换余额";
+"kWalletLabel3"  = "当前总计可兑换饭点 ";
+"kWalletLabel4" = "兑换比例 = 金额 ：饭点 = ";
+"kWalletLabel5" = "可兑换金额不足";
+"RewardPointSuccess" = "兑换成功";
+"RunTextViewPlaceholder" = "请输入想购买的商品以及描述";
+"RunDescLabelText"  = "可上传照片以作补充描述";
+"PlaceTheOrder" = "下单";
+"RunMsg"  = "每次私人定制订单将消耗一饭点";
+"UploadPic" = "请上传图片";
+"CancelOrder" = "取消订单";
+"ImmediatePayment" = "立即支付";
+"ConfirmCancelOrder" = "确认取消订单?";
+"InsufficientMealBalance" = "饭点余额不足";
+"DeliveryTime" = "配送时间";
+
+"RunErrands" = "私人定制";
+"DeliveryOrders" = "外卖订单";
+"RunningErrandsOrders" = "私人定制";
+"feedback"  = "反馈";
+"ShippingAddress" = "收货地址";
+"CommodityDescription" = "商品描述";
+"NoOrders"  = "暂未接单";
+"feedbackprice" = "等待反馈价格";
+
+"WaitingForPayment" = "等待付款";
+"PaymentSuccess" = "付款成功";
+
+"HowToGetRewardPoint" = "如何获取饭点？";
+"CashPayments" = "现金支付";
+"PayWithCard" = "刷卡支付";
+"RewardPoint" = "饭点支付";
+"kRewardPoint" = "饭点";
+
+"PersonalizedOrder" = " 私人定制";
+"WaitOrders" = "等待接单";
+
+
+"recieve" = "receive";
+"reminder" = "reminder";

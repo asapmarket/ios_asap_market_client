@@ -1,0 +1,242 @@
+/* 
+  Localizable.strings
+  WaiMaiClient
+
+  Created by 王 on 2017/7/31.
+  Copyright © 2017年 王. All rights reserved.
+*/
+CFBundleDisplayName = "Baozou delivery";
+NSMicrophoneUsageDescription = "Accept for using your microphone";
+NSLocationUsageDescription = "Accept for using your location";
+NSLocationWhenInUseUsageDescription = "Accept for update your location";
+NSLocationAlwaysUsageDescription = "Accept for location settings";
+NSCameraUsageDescription = "Accept for camera settings";
+NSPhotoLibraryUsageDescription = "Accept to visit your picture";
+
+"enterPhoneNO" = "Please enter phone number";
+"enterPwd" = "Please enter password";
+"registerNow" = "Register now";
+"register1"    = "Register";
+"forgetPwd" = "Forget Password";
+"enterAuthCode" = "Please enter verification code";
+"sendAuthCode" = "Get verification code";
+"sendCodeAgain" = "Resend";
+"userAgreement" = "《User Agreement》";
+"readerAgreement" = "I have read and agree";
+"backToLogin" = "Has account ? Return to login";
+"enterNewPwd" = "Please enter new password";
+"findPwd" = "Retrieve the password";
+"verNewPwd" = "Confirm new password";
+"enterOldPwd" = "Enter original password";
+"submit" = "Submit";
+"login" = "Sign in";
+
+/*
+ 个人中心
+ */
+"vipCenter" = "Personal Center";
+"myWallet"  = "My Wallet";
+"ahippingAddress" = "Shipping address";
+"vipMessage"     = "Membership message";
+"myInvitation"   = "My invitation";
+"photo" = "Avatar";
+"nickName" = "NickName";
+"modifyPwd" = "Change Password";
+"language" = "Language";
+"Chinese" = "Chinese";
+"English" = "English";
+"takingPictures" = "Take pictures";
+"fromPhotoAlbum"  = "Choose from the phone album";
+/*
+ tabBar
+ */
+"home" = "Home";
+"collect" = "Collection";
+"order" = "Order";
+
+/*
+ 订单
+ */
+
+"orderSuccess" = "Order Suc";
+"take"   = "Picking up";
+"onRoad" = "On the way";
+"orderEnd" = "Order finish";
+"goodsCount" = "Items";
+"confirmDelivery" = "Confirm delivery";
+"reminder_text" = "Reminder";
+"lookDetail" = "See details";
+"orderNO" = "Order NO.:";
+"AppendAddress" = "Add Address";
+"SelectPayStyle" = "Select Payment Method";
+"CustomRemark" = " Leave a message";
+"Courier" = "Courier";
+"ReceiveOrder" = "Orders";
+"Coupons"  = "coupons";
+"UseCoupons" = "Do not use coupons";
+"EnterCoupons" = "Please enter coupon code";
+"DiscountAmount" = "Discount Amount：$";
+
+
+/*
+ 会员中心
+ */
+"EditAddress" = "Edit the address";
+"AddAddress"  = "Add address";
+"RecieveAddress" = "Shipping address";
+"phoneNo" = "Phone NO.";
+"Contact" = "Contact";
+"Man"     = "Man";
+"Woman"     = "Woman";
+"CodeNO"  = "Zip Code";
+"Recieve" = "Save";
+"DeleteAddress" = "Delete the address";
+"HistoryOrder" = "Historical order";
+"ZipCodeIsNotDelivery" = "The current address is not in the delivery range";
+"verify" = "Confirm";
+
+/*
+ 商家
+ */
+"StoreDetail" = "Business details";
+"cancel" = "Cancle";
+"Address" = "Address：";
+"BusinessHours" = "Business hours:";
+"FoodDetail"   = "Product details";
+"ShopList"  = "Business list";
+
+"indentDetail" = "Order details";
+"InGet"  = "Not Take";
+"GetSuccess" = "Pick up success";
+"DeliveryLocation" = "Order place";
+"DeliveryConfirmation" = "Confirm delivery";
+"SelectSpec"   = "Select the specifications";
+"ShopCart" = "Shopping cart";
+
+"ClearShopCart" = "ClearCart";
+
+"Delete" = "Delete";
+
+"ConfirmExitShopCart" = "Make sure to empty the shopping cart？";
+"ShoppingCartIsEmpty" = "The shopping cart is empty";
+
+"Settlement"  = "Settlement";
+"Total" = "Total：";
+"SubmitOrder" = "Submit Order";
+
+"searchPlaceholder" = "Please enter the order NO. or phone NO. query";
+"screening" = "Filter";
+"orderTime" = "Order time";
+"inDistribution" = "Distribution";
+"completed" = "Completed";
+"search" = "Search";
+"reset" = "Reset";
+"orderType" = "Order Status";
+"startTime" = "Start Time";
+"endTime" = "End Time";
+"payType" = "Payment";
+"balance" = "Balance";
+"enterOrderNO" = "Please enter the order NO.";
+"enterPhoneNO" = "Please enter phone NO.";
+"orderManager" = "Order management";
+"takeOutOrder" = "Take - away orders";
+"reminderRecord" = "Reminder record";
+"pay" = "Pay";
+"paySuccess" = "Payment successful";
+"payFail" = "Payment failed";
+"payCancle" = "Cancel payment";
+"outLogin"  = "Sign Out";
+"confirmExit" = "Confirm Exit？";
+"indentNo" = "Order NO.";
+
+"CreditCard" = "Credit Card Pay";
+"PayWithCard" = "Pay With Card";
+"CreditCardNO" = "Credit Card NO.:";
+"CardNO" = "Card NO.:";
+"Validity"   = "Credit Card Validity:";
+"MyCreditCard" = "My Credit Card";
+"AddCreditCard" = "Add Credit Card";
+"Edit" = "Edit";
+"ArlertCreditCardNO" = "Please enter your credit card NO.";
+"ArlertValidity" = "Please enter credit card expiration date, format: 0119";
+
+"Delete" = "Delete";
+"VerifyDelete" = "Verify Delete?";
+
+"readUserAgreement" = "Please read the User Service Agreement first";
+"prompt" = "Prompt";
+"cancel" = "Cancel";
+"confirm_search" = "Confirm search";
+"SelectTime"  = "Please select the time";
+"taked"  = "Been taken";
+"accountSettings" = "Account Settings";
+"NotAllowApplePay" = "Your phone does not support Apple Pay";
+"TIPS" = "How We Charge:";
+"RefreshLocation" = "Refresh Location";
+
+"InThePayment" = "In The Payment...";
+"ContactUs" = "Contact Us";
+
+"CashPayments" = "Cash Payments";
+"SupportCart"= "Support the following credit card:";
+"FoodList" = "Food List";
+
+"Back"  = "Back";
+
+"Continue" = "Continue";
+
+"Wallet" = "Wallet";
+
+"Exchange" = "Exchange";
+"RewardPointBalance" = "My Reward Point";
+"WhatIsRewardPoint"  = "What is Reward Point？";
+"RewardPointPay" = "Reward Point Payment";
+"NowBalance"     = "Convertible balance";
+"kWalletLabel3"  = "Tottaly exchanged amount ";
+"kWalletLabel4" = "Exchange rate = amount : meal = ";
+"kWalletLabel5" = "Not enough convertible amount";
+"RewardPointSuccess" = "Exchange Success";
+
+"InsufficientMealBalance" = "Insufficient Reward Point Balance";
+
+
+"RunErrands" = "Personalized Order";
+"DeliveryOrders" = "Delivery Orders";
+"RunningErrandsOrders" = "Personalized Orders";
+"feedback" = "feedback";
+"ShippingAddress" = "Shipping Address";
+"RunTextViewPlaceholder" = "Please enter the items you want to purchase and describe them.";
+"RunDescLabelText"  = "Send photos immediately to supplement the description.";
+"PlaceTheOrder" = "Place The Order";
+"RunMsg"  = "Each personalized order will consume a Reward Point.";
+"UploadPic" = "Please upload pictures.";
+"CommodityDescription" = "Commodity Description";
+"CancelOrder" = "Cancel Order";
+"ImmediatePayment" = "Immediate Payment";
+"ConfirmCancelOrder" = "Confirm Cancel Order?";
+"DeliveryTime" = "Delivery Time";
+
+"NoOrders"  = "No Orders";
+
+"feedbackprice" = "wait feedback price";
+"WaitingForPayment" = "Waiting For Payment";
+"PaymentSuccess" = "Payment Success";
+"HowToGetRewardPoint" = "How To Get Reward Point?";
+
+"kRewardPoint" = "RewardPoint";
+
+"PersonalizedOrder" = "  Personalized Order";
+
+
+
+"WaitOrders" = "Wait Orders";
+
+"CashPayments" = "Cash Payments";
+"PayWithCard" = "Pay With Card";
+"RewardPoint" = "Reward Point pay";
+
+"WeChatPublic" = "WeChat Public";
+"ContactEmail" = "Contact Email";
+"Merchant" = "Business";
+"ContactsCan'tEmpty" = "The contact can not be empty";
+"LocationCantEmpty" = "The address can not be empty";

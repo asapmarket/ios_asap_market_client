@@ -1,0 +1,29 @@
+//
+//  Client_PrefixHeader.pch
+//  WaiMaiClient
+//
+//  Created by 王 on 2017/7/24.
+//  Copyright © 2017年 王. All rights reserved.
+//
+
+#import <Availability.h>
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "Header.h"
+#import "MJExtension.h"
+#import "MJRefresh.h"
+#import "UIImageView+WebCache.h"
+#import "AppDelegate.h"
+#import "AFNetworking.h"
+
+#import "Const.h"
+#import "Public.h"
+#import "ToolC.h"
+
+//自定义的错误码
+#define kResultErrorDomin           @"cms"          // 接口错误的域
+#define kResultErrorDesKey          @"error"     // 接口错误的userinfo 描述信息
+
+#endif

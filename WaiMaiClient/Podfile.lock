@@ -1,0 +1,72 @@
+PODS:
+  - AFNetworking (3.2.0):
+    - AFNetworking/NSURLSession (= 3.2.0)
+    - AFNetworking/Reachability (= 3.2.0)
+    - AFNetworking/Security (= 3.2.0)
+    - AFNetworking/Serialization (= 3.2.0)
+    - AFNetworking/UIKit (= 3.2.0)
+  - AFNetworking/NSURLSession (3.2.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.0)
+  - AFNetworking/Security (3.2.0)
+  - AFNetworking/Serialization (3.2.0)
+  - AFNetworking/UIKit (3.2.0):
+    - AFNetworking/NSURLSession
+  - CardIO (5.4.1)
+  - GoogleMaps (2.3.0):
+    - GoogleMaps/Maps (= 2.3.0)
+  - GoogleMaps/Base (2.3.0)
+  - GoogleMaps/Maps (2.3.0):
+    - GoogleMaps/Base
+  - IQKeyboardManager (5.0.7)
+  - MJExtension (3.0.13)
+  - MJRefresh (3.1.15.3)
+  - PayPal-iOS-SDK (2.17.0):
+    - PayPal-iOS-SDK/CardIO (= 2.17.0)
+    - PayPal-iOS-SDK/Core (= 2.17.0)
+  - PayPal-iOS-SDK/CardIO (2.17.0):
+    - CardIO (~> 5.4.1)
+  - PayPal-iOS-SDK/Core (2.17.0)
+  - SDWebImage (3.7.6):
+    - SDWebImage/Core (= 3.7.6)
+  - SDWebImage/Core (3.7.6)
+  - Stripe (11.5.0)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.0)
+  - GoogleMaps (= 2.3.0)
+  - IQKeyboardManager (~> 5.0.6)
+  - MJExtension
+  - MJRefresh (~> 3.1.15.1)
+  - PayPal-iOS-SDK
+  - SDWebImage (~> 3.7.5)
+  - Stripe
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - CardIO
+    - GoogleMaps
+    - IQKeyboardManager
+    - MJExtension
+    - MJRefresh
+    - PayPal-iOS-SDK
+    - SDWebImage
+    - Stripe
+
+SPEC CHECKSUMS:
+  AFNetworking: 8ac6017b94ea105479f7776e5288e48ae9c59bb4
+  CardIO: 56983b39b62f495fc6dae9ad7cf875143df06443
+  GoogleMaps: 340a6a0bebd17c2db8abcd3921976c7c53c86cb8
+  IQKeyboardManager: 0bfa4607d39924116b5c0c8b55b5d789288b5cba
+  MJExtension: 5932755f451458eefa24239358817f8d291240c7
+  MJRefresh: b48380ae2b927b46c4ef000de9adb8dc748e1df7
+  PayPal-iOS-SDK: 849321f6214a7187ee4cc684f63fe509df4c4a36
+  SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
+  Stripe: 10761682d20dc491c52287393c800db056c9748d
+
+PODFILE CHECKSUM: 34966a3a615e9f8b60ea9b05de15a1d45601e337
+
+COCOAPODS: 1.5.3
